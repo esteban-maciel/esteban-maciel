@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @esteban-maciel
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently tinkering with a Raspberry Pi to build a monitoring system for my rabbit
 - 💞️ I’m looking to collaborate on anything!
 - 📫 You can reach me on LinkedIn or at esteban dot maciel at icloud dot com
 
